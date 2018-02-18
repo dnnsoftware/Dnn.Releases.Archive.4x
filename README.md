@@ -1,6 +1,6 @@
 # DNN Platform 4.x Releases Archive
 
-This repository contains all previous DNN releases from 04.03.00 up to 04.09.05.
+This repository contains all previous DNN releases from 01.00.00 up to 04.09.05.
 
 All Releases:
 ---------------
